@@ -1,4 +1,4 @@
-## Hi, I'm Guz 😹
+# Hi, I'm Guz 😹
 
 # 💫 About Me:
 
