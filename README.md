@@ -1,5 +1,5 @@
-## Hi, I'm Guz 😹
-<br>
+<br>## Hi, I'm Guz 😹
+
 # 💫 About Me:
 
 💻 I'm currently learning: Android Development (Kotlin) & Cybersecurity 🔐<br>🚀 I'm working on: Small projects in Java & Kotlin while exploring Fullstack Development 🌍<br>🤝 I'm looking to collaborate on: Open-source projects related to security & web development 🔎<br>🎯 Goals: Becoming a Fullstack Developer & Cybersecurity Specialist 🛡️<br>📢 Ask me about: Java, Kotlin, Cybersecurity basics, or getting started in Android Development!
