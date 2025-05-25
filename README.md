@@ -25,5 +25,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=GuzXP&icon=0&color=0)](https://visitcount.itsvg.in)
+<p> <img src="https://komarev.com/ghpvc/?username=GuzXP&label=Profile%20views&color=blueviolet&style=flat" alt="GuzXP" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
